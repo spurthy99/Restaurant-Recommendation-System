@@ -37,10 +37,14 @@ Downloading NLTK Data
 After installing NLTK, you need to download the required data. In Python, import the library and execute the following commands:
 
 python
-Copy code
+
 import nltk
+
 nltk.download('punkt')
+
 nltk.download('averaged_perceptron_tagger')
+
+
 Make sure to run these commands in your Python environment to download the necessary NLTK data.
 
 
