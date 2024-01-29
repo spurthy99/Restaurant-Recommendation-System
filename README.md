@@ -10,7 +10,6 @@ pymongo:
 
 To install pymongo, run the following command in your terminal or command prompt:
 
-Copy code
 pip install pymongo
 
 Homebrew:
@@ -25,14 +24,15 @@ Gensim:
 
 To install Gensim, run the following command in your terminal or command prompt:
 
-Copy code
 pip install gensim
+
 NLTK:
 
 To install NLTK (Natural Language Toolkit), use the following command:
 
-Copy code
+
 pip install nltk
+
 Downloading NLTK Data
 After installing NLTK, you need to download the required data. In Python, import the library and execute the following commands:
 
